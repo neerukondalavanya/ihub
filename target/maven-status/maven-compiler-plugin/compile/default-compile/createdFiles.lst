@@ -1,0 +1,7 @@
+org\apache\schema\helloworld\package-info.class
+org\apache\schema\helloworld\SayHiResponse.class
+org\apache\contract\helloworld\HelloWorldService.class
+org\apache\schema\helloworld\SayHi.class
+ihub\HelloWorldPortTypeImpl.class
+org\apache\schema\helloworld\ObjectFactory.class
+org\apache\contract\helloworld\HelloWorldPortType.class
